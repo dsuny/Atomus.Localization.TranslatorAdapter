@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomus.Localization.TranslatorAdapter(dotNet)", "dotNet\Atomus.Localization.TranslatorAdapter(dotNet).csproj", "{EBF2DBF0-8203-47D8-8092-1B5957D044DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF2DBF0-8203-47D8-8092-1B5957D044DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF2DBF0-8203-47D8-8092-1B5957D044DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF2DBF0-8203-47D8-8092-1B5957D044DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF2DBF0-8203-47D8-8092-1B5957D044DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CA363C-E91E-4363-BE2E-A3D84DA91A7D}
+	EndGlobalSection
+EndGlobal
